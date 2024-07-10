@@ -7,26 +7,17 @@
 AtliQ Hardware has been growing rapidly in recent years. To stay ahead of competitors and make data-driven decisions, they decided to implement data analytics using PowerBI. This project aims to address stakeholders' questions across various aspects like finance, sales, marketing, and supply chain
 
 
-💻 Tech Stack
+💻 Tech Stack:
 
 🐬 SQL
-
 📊 PowerBI Desktop
-
 📈 Excel
-
 🧮 DAX language
-
 ⚡ DAX Studio (for optimizing the report)
-
 📜 Project charter file
-
 🛠️ PowerBI Techniques Learned
-
 🧠 Key questions to ask before starting a project
-
 🧮 Creating calculated columns
-
 🔢 Creating measures using DAX language
 
 🗂️ Data modeling

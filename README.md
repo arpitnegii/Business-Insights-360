@@ -1,13 +1,12 @@
-# Business-Insights-360
+📊 **Business Insights 360**
 
-📊 Business Insights 360
-
-🌟 Project Overview
+🌟 **Project Overview**
 
 AtliQ Hardware has been growing rapidly in recent years. To stay ahead of competitors and make data-driven decisions, they decided to implement data analytics using PowerBI. This project aims to address stakeholders' questions across various aspects like finance, sales, marketing, and supply chain
 
+**Live Dashboard**: https://app.powerbi.com/groups/me/reports/ba8935be-e2f4-4579-bd16-b3f16f547e6d/1c8e81316549b70095a0?experience=power-bi
 
-💻 Tech Stack:
+**Tech Stack**:
 
 🐬 SQL
 📊 PowerBI Desktop
@@ -19,74 +18,45 @@ AtliQ Hardware has been growing rapidly in recent years. To stay ahead of compet
 🧠 Key questions to ask before starting a project
 🧮 Creating calculated columns
 🔢 Creating measures using DAX language
-
 🗂️ Data modeling
-
 📑 Using Bookmarks to switch between visuals
-
 🖱️ Page navigation with buttons
-
 ➗ Using the DIVIDE function to prevent zero division errors
-
 📅 Creating a date table using M language
-
 🏷️ Dynamic titles based on applied filters
-
 📊 Using KPI indicators
-
 🎨 Conditional formatting in visuals using icons or background color
-
 ✔️ Data validation techniques
-
 🌐 PowerBI Services
-
 🚀 Publishing reports to PowerBI Services
-
 🔄 Setting up a personal gateway for automatic data refresh
-
 📱 PowerBI App creation
-
 🤝 Collaboration, workspace management, and access permissions in PowerBI Services
 And more 😅
-
 🐙 GitHub
-
 📂 Uploading large files using GitHub LFS
-
 🔍 Tracking specific file types for LFS
 
-📚 Business Terms
+
+**Business Terms**:
 
 💵 Gross price
-
 📉 Pre-invoice deductions
-
 🧾 Net invoice sale
-
 📈 Post-invoice deductions
-
 💲 Net sales
-
 🏷️ COGS (Cost of Goods Sold)
-
 💰 Gross margin
-
 💸 Net profit
-
 📆 YTD (Year to Date)
-
 📅 YTG (Year to Go)
-
 🛒 Direct
-
 🏬 Retailer
-
 📦 Distributors
-
 👥 Consumer
 
-🏢 Company Background
 
+**Company Background**:
 AtliQ Hardware has seen significant growth in recent years, expanding globally. The company sells computers and computer accessories through three channels:
 
 🏬 Retailers
@@ -97,7 +67,7 @@ AtliQ Hardware has seen significant growth in recent years, expanding globally. 
 
 Recently, the company faced unforeseen losses by opening a store in America based on surveys, intuition, and some Excel analysis. Their competitors have analytics teams to make data-driven decisions, pushing AtliQ Hardware to build their analytics team for better insights and decision-making in the future.
 
-❓ Key Questions Before Starting the Dashboard
+ **Key Questions Before Starting the Dashboard**
 
 ❔ What is the objective of building this PowerBI dashboard?
 
@@ -121,9 +91,8 @@ Recently, the company faced unforeseen losses by opening a store in America base
 
 🖌️ Are there any stakeholder inputs regarding the dashboard's design and views?
 
-🗄️ Dataset Understanding
 
-
+** Dataset Understanding**:
 
 Understanding available data is crucial before analysis. Familiarize yourself with the data
 Dimension Table: Contains static data like customer and product details.
@@ -218,16 +187,13 @@ Based on the received mock-ups, the team will design visuals and create measures
 🏠 Home View
 The Home view contains buttons to navigate to specific views:
 
-ℹ️ Info
+
+**Info**:
 
 💵 Finance View
-
 📈 Sales View
-
 📊 Marketing View
-
 🚚 Supply Chain View
-
 👔 Executive View
 
 
